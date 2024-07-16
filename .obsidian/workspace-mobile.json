@@ -1,0 +1,245 @@
+{
+  "main": {
+    "id": "70f27c3c1d3093c2",
+    "type": "split",
+    "children": [
+      {
+        "id": "1c04fb16a0b7a8bb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "54e7376ff0cd08ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Boilerplate Template.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "571aa77e0ab71f26",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ambire.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9a3028c0052cbe8b",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "dbd3b2c8eeb0437d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Travel/Austin/Dazed & Confused.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ee9032dff318ce38",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "074ff969a3f0ec12",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "047cc2595e815543",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "240d8c4ff54ae231",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "c569aed61f5e29ee",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      },
+      {
+        "id": "c1f88ec6d1175f79",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      },
+      {
+        "id": "a877d39bcf467e42",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "88c166bfbffe2dee",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "dc6def912f5ed482",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Travel/Austin/Dazed & Confused.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "bdb56137cde221e6",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Travel/Austin/Dazed & Confused.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "b7d7a8c0cc88c364",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Travel/Austin/Dazed & Confused.md"
+          }
+        }
+      },
+      {
+        "id": "39b5127241bb8d73",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      },
+      {
+        "id": "4687efcc48b3b8f0",
+        "type": "leaf",
+        "state": {
+          "type": "timeline",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "markdown-importer:Open format converter": false,
+      "workspaces:Manage workspace layouts": false,
+      "publish:Publish changes...": false,
+      "random-note:Open random note": false,
+      "audio-recorder:Start/stop recording": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-day-planner:Timeline": false,
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "recipe-grabber:Recipe Grabber": false
+    }
+  },
+  "active": "dbd3b2c8eeb0437d",
+  "lastOpenFiles": [
+    "Recipes/Snacks/Edamame.md",
+    "Travel/Austin/Dazed & Confused.md",
+    "Travel/Austin/Dazed & Confused",
+    "Recipes/Snacks/Cottage_Cheese.md",
+    "Recipes/Snacks/Hard_Boiled_Eggs.md",
+    "Recipes/Snacks/Chickpeas.md",
+    "Recipes/Snacks/Cheese_Sticks.md",
+    "Travel/Austin/Arturio’s Underground.md",
+    "Travel/Austin/Dear Austin.md",
+    "Untitled.md",
+    "Travel/Austin",
+    "Travel",
+    "Recipes.md",
+    "Recipes",
+    "If Ray Kurzweil Is Right (Again), You’ll Meet His Immortal Soul in the Cloud.md",
+    "Articles",
+    "Bookmarks/Ambire/Archive - Kazm Blog.md",
+    "Bookmarks/Ambire/Elevate your loyalty program.md",
+    "Bookmarks/Ambire/jokerace.md",
+    "Bookmarks/Ambire/Entre - Professional network for entrepreneurs, creators, &amp; investors.md",
+    "Bookmarks/Radar.xyz/Community Knowledge AI chatbot with curator splits.md",
+    "Bookmarks/Ambire",
+    "Bookmarks/Radar.xyz/Quivr - Get a Second Brain with Generative AI.md",
+    "Bookmarks/Radar.xyz",
+    "Bookmarks/Collections/Radar.xyz",
+    "Bookmarks/Collections/Feedly Saved",
+    "Bookmarks/Collections",
+    "Ambire/Leaderboard/Leaderboard Notes.md",
+    "Ambire.md",
+    "Boilerplate Template.md",
+    "Podcast.md"
+  ]
+}

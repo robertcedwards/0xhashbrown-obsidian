@@ -1,0 +1,224 @@
+{
+  "main": {
+    "id": "c9162002885ad7a5",
+    "type": "split",
+    "children": [
+      {
+        "id": "e2a7ec5293d7f969",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "43cddc60fe6de341",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/Lynxify/backdrop-update-template.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e1bc948c836e1a17",
+    "type": "split",
+    "children": [
+      {
+        "id": "d0f4d119ff59e50d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2e0a2546fa229254",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8e6115d516c693f8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "40b051ffa8fdfa71",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f531cd9738f95c32",
+    "type": "split",
+    "children": [
+      {
+        "id": "62a9be08089c6595",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8946bc25ff57588b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Projects/Lynxify/backdrop-update-template.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "73beb2c8bba6c3e1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Projects/Lynxify/backdrop-update-template.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "38d8e2112e18902c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "7561e5792d45b93e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Projects/Lynxify/backdrop-update-template.md"
+              }
+            }
+          },
+          {
+            "id": "412be8b7f360ad16",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "95af94440ab4cc14",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          },
+          {
+            "id": "d5b372e72cd759e2",
+            "type": "leaf",
+            "state": {
+              "type": "mermaid-toolbar-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "random-note:Open random note": false,
+      "audio-recorder:Start/stop recording": false,
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "recipe-grabber:Recipe Grabber": false,
+      "markdown-importer:Open format converter": false,
+      "publish:Publish changes...": false,
+      "workspaces:Manage workspace layouts": false
+    }
+  },
+  "active": "43cddc60fe6de341",
+  "lastOpenFiles": [
+    "Projects.md",
+    "Untitled.md",
+    "Podcast.md",
+    "Day Planners/Day Planner-20240712.md",
+    "If Ray Kurzweil Is Right (Again), You’ll Meet His Immortal Soul in the Cloud.md",
+    "Boilerplate Template.md",
+    "Ambire.md",
+    "Projects/Mural Bot/Resources.md",
+    "Projects/Mural Bot",
+    "Recipes/Breakfast/7 Day Fiber Plan/Day_3.md",
+    "Travel/Austin/Dazed & Confused.md",
+    "Recipes/text.txt",
+    "Recipes/Snacks/Tuna_Salad.md",
+    "Recipes/Snacks/Protein_Smoothie.md",
+    "Recipes/Snacks/Hummus_Vegetables.md",
+    "Recipes/Snacks/Hard_Boiled_Eggs.md",
+    "Recipes/Snacks/Greek_Yogurt.md",
+    "Recipes/Snacks/Edamame.md",
+    "Recipes/Snacks/Chickpeas.md",
+    "Recipes/Snacks/Cottage_Cheese.md",
+    "Recipes/Snacks/Almonds.md",
+    "Recipes/Snacks/Cheese_Sticks.md",
+    "Recipes/Snacks",
+    "Travel/Austin/Arturio’s Underground.md",
+    "Travel/Austin/Dear Austin.md",
+    "Travel/Austin",
+    "Travel",
+    "Recipes/Breakfast/7 Day Fiber Plan/Day_2.md",
+    "Recipes/Breakfast/7 Day Fiber Plan/Day_1.md",
+    "Recipes/Breakfast/Make Ahead Breakfast/Baked_Pancakes.md",
+    "Recipes/Breakfast/7 Day Fiber Plan/Day_7.md",
+    "Recipes/Breakfast/7 Day Fiber Plan",
+    "Recipes/Breakfast/Make Ahead Breakfast",
+    "Recipes/Breakfast",
+    "Recipes/untitled folder",
+    "Recipes/Make Ahead Breakfast",
+    "Projects/Untitled.canvas"
+  ]
+}
