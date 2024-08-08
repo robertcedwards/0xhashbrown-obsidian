@@ -4,17 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "e2a7ec5293d7f969",
+        "id": "a8cc6e16d76fc6c5",
         "type": "tabs",
         "children": [
           {
-            "id": "43cddc60fe6de341",
+            "id": "c0f401861b27b3d1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Lynxify/backdrop-update-template.md",
+                "file": "Projects/Nutra.io Overview.md",
                 "mode": "source",
+                "backlinks": true,
                 "source": false
               }
             }
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/Lynxify/backdrop-update-template.md",
+                "file": "Projects/Nutra.io Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/Lynxify/backdrop-update-template.md",
+                "file": "Projects/Nutra.io Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/Lynxify/backdrop-update-template.md"
+                "file": "Projects/Nutra.io Overview.md"
               }
             }
           },
@@ -150,7 +151,7 @@
             }
           },
           {
-            "id": "d5b372e72cd759e2",
+            "id": "8c5746265d6c5117",
             "type": "leaf",
             "state": {
               "type": "mermaid-toolbar-view",
@@ -158,14 +159,16 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-day-planner:Timeline": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -178,47 +181,49 @@
       "recipe-grabber:Recipe Grabber": false,
       "markdown-importer:Open format converter": false,
       "publish:Publish changes...": false,
-      "workspaces:Manage workspace layouts": false
+      "workspaces:Manage workspace layouts": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-map-view:Open map view": false
     }
   },
-  "active": "43cddc60fe6de341",
+  "active": "c0f401861b27b3d1",
   "lastOpenFiles": [
-    "Projects.md",
-    "Untitled.md",
-    "Podcast.md",
-    "Day Planners/Day Planner-20240712.md",
-    "If Ray Kurzweil Is Right (Again), You’ll Meet His Immortal Soul in the Cloud.md",
-    "Boilerplate Template.md",
-    "Ambire.md",
-    "Projects/Mural Bot/Resources.md",
-    "Projects/Mural Bot",
-    "Recipes/Breakfast/7 Day Fiber Plan/Day_3.md",
-    "Travel/Austin/Dazed & Confused.md",
-    "Recipes/text.txt",
-    "Recipes/Snacks/Tuna_Salad.md",
-    "Recipes/Snacks/Protein_Smoothie.md",
-    "Recipes/Snacks/Hummus_Vegetables.md",
-    "Recipes/Snacks/Hard_Boiled_Eggs.md",
-    "Recipes/Snacks/Greek_Yogurt.md",
-    "Recipes/Snacks/Edamame.md",
-    "Recipes/Snacks/Chickpeas.md",
-    "Recipes/Snacks/Cottage_Cheese.md",
-    "Recipes/Snacks/Almonds.md",
-    "Recipes/Snacks/Cheese_Sticks.md",
-    "Recipes/Snacks",
-    "Travel/Austin/Arturio’s Underground.md",
-    "Travel/Austin/Dear Austin.md",
-    "Travel/Austin",
-    "Travel",
-    "Recipes/Breakfast/7 Day Fiber Plan/Day_2.md",
-    "Recipes/Breakfast/7 Day Fiber Plan/Day_1.md",
-    "Recipes/Breakfast/Make Ahead Breakfast/Baked_Pancakes.md",
-    "Recipes/Breakfast/7 Day Fiber Plan/Day_7.md",
-    "Recipes/Breakfast/7 Day Fiber Plan",
-    "Recipes/Breakfast/Make Ahead Breakfast",
-    "Recipes/Breakfast",
-    "Recipes/untitled folder",
-    "Recipes/Make Ahead Breakfast",
+    "Projects/Podiatric Orthotic System.md",
+    "Projects/Nutra.io Overview.md",
+    "Projects/AI Prompts/100 AI Prompts.md",
+    "02 - Source Materials/Recipes/Snacks/Almond Joy Inspired Energy Balls.md",
+    "03 - Tags/Chocolate Peanut Butter Energy.md",
+    "Day Planners/August 5th 2024, 5 am.md",
+    "Day Planners/July 31st 2024, 4 pm.md",
+    "Projects/AI Prompts",
+    "Day Planners/July 30th 2024, 5 pm.md",
+    "Day Planners/July 29th 2024, 5 pm.md",
+    "02 - Source Materials/Articles/Rediscovering and Preserving More from Millard Sheets.md",
+    "02 - Source Materials/Books/To Read/Have a Nice Life.md",
+    "03 - Tags/Fabric.md",
+    "03 - Tags/chatgpt.md",
+    "03 - Tags/ai.md",
+    "03 - Tags/NetworkChuck.md",
+    "03 - Tags/open-source.md",
+    "03 - Tags/productivity.md",
+    "03 - Tags/AI patterns.md",
+    "03 - Tags/human augmentation.md",
+    "03 - Tags/Crowdsourced AI.md",
+    "03 - Tags/Fabric AI.md",
+    "03 - Tags/digital_organization.md",
+    "02 - Source Materials/Videos/Form, Function, & Fun! - My Obsidian Vault Tour 2024.md",
+    "02 - Source Materials/Videos/Fabric - Opensource AI Framework Trust Can Automate Your Life.md",
+    "02 - Source Materials/Videos/Fabric - Augmenting Humans with AI - An Open-Source Approach.md",
+    "03 - Tags/Adam Arenson.md",
+    "Projects/Millard Sheets/Millard Sheets Map Project copy/data/Millard_Sheets_Studio_Locations.json",
+    "Projects/Millard Sheets/Millard Sheets Map Project copy/index.html",
+    "Projects/Millard Sheets/Millard Sheets Map Project copy/script.js",
+    "Projects/Millard Sheets/Millard Sheets Map Project copy/data",
+    "Projects/Millard Sheets/Millard Sheets Map Project copy",
+    "Projects/Millard Sheets/Millard Sheets Map Project/Millard Sheets Map Project copy/data/Millard_Sheets_Studio_Locations.json",
+    "Projects/Millard Sheets/Millard Sheets Map Project/Millard Sheets Map Project copy/index.html",
+    "Projects/Millard Sheets/Millard Sheets Map Project/Millard Sheets Map Project copy/script.js",
+    "Projects/Millard Sheets/Millard Sheets Map Project/Millard Sheets Map Project copy/data",
     "Projects/Untitled.canvas"
   ]
 }

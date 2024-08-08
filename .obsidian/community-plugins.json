@@ -2,5 +2,9 @@
   "calendar",
   "obsidian-day-planner",
   "mermaid-tools",
-  "recipe-grabber"
+  "recipe-grabber",
+  "geocoding-properties",
+  "templater-obsidian",
+  "obsidian-map-view",
+  "custom-font-loader"
 ]

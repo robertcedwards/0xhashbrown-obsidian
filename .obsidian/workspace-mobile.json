@@ -11,24 +11,16 @@
             "id": "54e7376ff0cd08ef",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Boilerplate Template.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
             "id": "571aa77e0ab71f26",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ambire.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
@@ -45,14 +37,41 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Travel/Austin/Dazed & Confused.md",
+                "file": "02 - Source Materials/Recipes/Snacks/Almonds.md",
                 "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "62ce08010a9422a9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02 - Source Materials/Recipes/Snacks/Almond Joy Inspired Energy Balls.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d15c6dc745c245b2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03 - Tags/Chocolate Peanut Butter Energy.md",
+                "mode": "source",
+                "backlinks": true,
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -138,7 +157,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Travel/Austin/Dazed & Confused.md",
+            "file": "03 - Tags/Chocolate Peanut Butter Energy.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -155,7 +174,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Travel/Austin/Dazed & Confused.md",
+            "file": "03 - Tags/Chocolate Peanut Butter Energy.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -167,7 +186,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Travel/Austin/Dazed & Confused.md"
+            "file": "03 - Tags/Chocolate Peanut Butter Energy.md"
           }
         }
       },
@@ -192,6 +211,8 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "templater-obsidian:Templater": false,
+      "obsidian-map-view:Open map view": false,
       "markdown-importer:Open format converter": false,
       "workspaces:Manage workspace layouts": false,
       "publish:Publish changes...": false,
@@ -208,38 +229,43 @@
       "recipe-grabber:Recipe Grabber": false
     }
   },
-  "active": "dbd3b2c8eeb0437d",
+  "active": "d15c6dc745c245b2",
   "lastOpenFiles": [
-    "Recipes/Snacks/Edamame.md",
+    "02 - Source Materials/Recipes/Snacks/Almond Joy Inspired Energy Balls.md",
+    "03 - Tags/Chocolate Peanut Butter Energy.md",
+    "02 - Source Materials/Recipes/Snacks/Almonds.md",
+    "Day Planners/August 5th 2024, 5 am.md",
+    "01 - Rough Notes/Second Sleep.md",
+    "Day Planners/July 25th 2024, 8 pm.md",
+    "03 - Tags/Fabric.md",
+    "06 - Main Notes/Using Tools + AI to Enhance Learning + Writing.md",
+    "02 - Source Materials/Videos/Obsidian - The King of Learning Tools (FULL GUIDE + SETUP) by Odysseas.md",
+    "05 - Templates/Article.md",
+    "05 - Templates/Podcast.md",
+    "05 - Templates/Video.md",
+    "02 - Source Materials/Videos/Fabric - Augmenting Humans with AI - An Open-Source Approach.md",
+    "05 - Templates/Book.md",
+    "02 - Source Materials/Videos/Fabric - Opensource AI Framework Trust Can Automate Your Life.md",
+    "02 - Source Materials/Videos/You’ve Been Using AI All Wrong.md",
+    "02 - Source Materials/Videos/Untitled 1.md",
+    "05 - Templates/Main Notes.md",
+    "Bookmarks/Radar.xyz/Quivr - Get a Second Brain with Generative AI.md",
+    "02 - Source Materials/Videos/How to create a second brain with Fabric & Obsidian.md",
+    "Day Planners/July 25th 2024, 1 pm.md",
+    "Books/To Read/Nihil Unbound.md",
+    "Books/To Read/Have a Nice Life.md",
+    "Books/To Read/conspiracy against the human race.md",
+    "Day Planners/July 22nd 2024, 9 pm.md",
+    "Books/To Read",
+    "Books",
     "Travel/Austin/Dazed & Confused.md",
     "Travel/Austin/Dazed & Confused",
-    "Recipes/Snacks/Cottage_Cheese.md",
-    "Recipes/Snacks/Hard_Boiled_Eggs.md",
-    "Recipes/Snacks/Chickpeas.md",
-    "Recipes/Snacks/Cheese_Sticks.md",
-    "Travel/Austin/Arturio’s Underground.md",
-    "Travel/Austin/Dear Austin.md",
-    "Untitled.md",
     "Travel/Austin",
     "Travel",
-    "Recipes.md",
     "Recipes",
-    "If Ray Kurzweil Is Right (Again), You’ll Meet His Immortal Soul in the Cloud.md",
     "Articles",
-    "Bookmarks/Ambire/Archive - Kazm Blog.md",
-    "Bookmarks/Ambire/Elevate your loyalty program.md",
-    "Bookmarks/Ambire/jokerace.md",
-    "Bookmarks/Ambire/Entre - Professional network for entrepreneurs, creators, &amp; investors.md",
-    "Bookmarks/Radar.xyz/Community Knowledge AI chatbot with curator splits.md",
     "Bookmarks/Ambire",
-    "Bookmarks/Radar.xyz/Quivr - Get a Second Brain with Generative AI.md",
     "Bookmarks/Radar.xyz",
-    "Bookmarks/Collections/Radar.xyz",
-    "Bookmarks/Collections/Feedly Saved",
-    "Bookmarks/Collections",
-    "Ambire/Leaderboard/Leaderboard Notes.md",
-    "Ambire.md",
-    "Boilerplate Template.md",
-    "Podcast.md"
+    "Bookmarks/Collections/Radar.xyz"
   ]
 }
